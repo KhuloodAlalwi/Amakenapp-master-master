@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Amakenapp</string>
+    <string-array name="spinner_options">
+        <item>Saudi Arabia</item>
+        <item>United Arab Emirates</item>
+        <item>Malaysia</item>
+        <item>Syria</item>
+        <item>Kuwait</item>
+        <item>Jordan</item>
+        <item>India</item>
+        <item>Egypt</item>
+        <item>Iraq</item>
+        <item>Yeman</item>
+    </string-array>
+    <string name="title_activity_sign_up_user">SignUpUser</string>
+    <string name="title_activity_sign_up_business">SignUpBusiness</string>
+    <string name="title_activity_sign_up_chooser">SignUpChooser</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_add_review">AddReview</string>
+    <string name="title_activity_nav_drw">NavDrw</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_editProfile">edit Profile</string>
+    <string name="android_studio">User Name</string>
+    <string name="title_activity_search">searchActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
